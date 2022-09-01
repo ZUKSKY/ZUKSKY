@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/cmg5Dt0vGPkCv9rxHn/giphy.gif?cid=ecf05e47vhqh8lqybey4w3kwgxundl16u4wv36o52w1zzgzi&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi ✌️, I'm Zukhrian Shafarazaq</h1>
