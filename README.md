@@ -1,7 +1,7 @@
 <img align="right" alt="(https://github.com/ZUKSKY)"  width="300" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
 
 ### Hi 👋 I'm Zukhrian Shafarazaq
-I'm Web & Mobile App Developer, but i also like playing games everytime and digital art poster design👺<br>
+I'm Web & Mobile App Developer, but i also like playing games everytime and make digital art poster design👺<br>
 
 - 🍖 eat(); 
 
