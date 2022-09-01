@@ -1,8 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/ZUKSKY))
 
 
-<h1 align="center">Hi ✌️, I'm Zukhrian Shafarazaq</h1>
-<h3 align="center">Web & Mobile App Developer, but i also like playing games and digital art poster design👺.</h3>
+
+### Hi 👋 I'm Zukhrian Shafarazaq
+Web & Mobile App Developer, but i also like playing games and digital art poster design👺<br>
 <img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/cmg5Dt0vGPkCv9rxHn/giphy.gif?cid=ecf05e47vhqh8lqybey4w3kwgxundl16u4wv36o52w1zzgzi&rid=giphy.gif&ct=g">
 
 - 🍖 eat(); 
