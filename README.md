@@ -1,10 +1,9 @@
-[![MasterHead](https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp)](https://github.com/ZUKSKY)
-
+//[![MasterHead](https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp)](https://github.com/ZUKSKY)//
 
 
 ### Hi 👋 I'm Zukhrian Shafarazaq
 Web & Mobile App Developer, but i also like playing games and digital art poster design👺<br>
-<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/cmg5Dt0vGPkCv9rxHn/giphy.gif?cid=ecf05e47vhqh8lqybey4w3kwgxundl16u4wv36o52w1zzgzi&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webpg">
 
 - 🍖 eat(); 
 
