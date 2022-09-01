@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi ✌️, I'm Zukhrian Shafarazaq</h1>
 <h3 align="center">Web & Mobile App Developer, but i also like playing games and digital art poster design👺.</h3>
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
 
 
 - 🍖 eat(); 
