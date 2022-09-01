@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/097d20fcea5b321f5f2cbf4cd354eca8/8185cba84fa707b7-db/s540x810/ba278ea60a6b59469e411cca7dd178e1a3dd6c9f.gifv)](https://github.com/ZUKSKY)
+[![MasterHead](https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp)](https://github.com/ZUKSKY)
 
 
 
