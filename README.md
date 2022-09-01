@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/ZUKSKY)
 
 
+
 ### Hi 👋 I'm Zukhrian Shafarazaq
 Web & Mobile App Developer, but i also like playing games and digital art poster design👺<br>
 <img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/cmg5Dt0vGPkCv9rxHn/giphy.gif?cid=ecf05e47vhqh8lqybey4w3kwgxundl16u4wv36o52w1zzgzi&rid=giphy.gif&ct=g">
@@ -62,9 +63,9 @@ Other :
 - Email : **zukskyy@gmail.com**
 - Discord : <a href="https://discord.gg/aNb6MmBSwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aNb6MmBSwU" height="30" width="40" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuksky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="zuksky" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuksky&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="zuksky" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuksky&theme=default" alt="zuksky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuksky&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en" alt="zuksky" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuksky&label=Stalker%20views&color=059fff&style=flat" alt="zuksky" /> </p>
 
