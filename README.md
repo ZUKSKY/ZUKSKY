@@ -1,11 +1,10 @@
-[![MasterHead](https://media1.giphy.com/media/cmg5Dt0vGPkCv9rxHn/giphy.gif?cid=ecf05e47vhqh8lqybey4w3kwgxundl16u4wv36o52w1zzgzi&rid=giphy.gif&ct=g)](https://ZUKSKY.io)
-
 <h1 align="center">Hi ✌️, I'm Zukhrian Shafarazaq</h1>
 <h3 align="center">Web & Mobile App Developer, but i also like playing games and digital art poster design👺.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuksky&label=Stalker%20views&color=059fff&style=flat" alt="zuksky" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuksky" alt="zuksky" /></a> </p>
 
 - 📫 How to reach me **zukskyy@gmail.com**
 
