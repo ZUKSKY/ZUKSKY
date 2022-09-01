@@ -66,8 +66,8 @@ Other :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuksky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="zuksky" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuksky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="zuksky" /></p>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuksky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="zuksky" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuksky&label=Stalker%20views&color=059fff&style=flat" alt="zuksky" /> </p>
 
 <h3 align="left">Support:</h3>
