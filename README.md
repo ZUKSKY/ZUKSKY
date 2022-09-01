@@ -17,7 +17,7 @@ Web & Mobile App Developer, but i also like playing games and digital art poster
 
 ### Reach Me On 📫
 - Email **zukskyy@gmail.com**
-- <a href="https://discord.gg/aNb6MmBSwU">Discord</a>
+- Discord : 
 <p align="left">
 <a href="https://discord.gg/aNb6MmBSwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aNb6MmBSwU" height="30" width="40" /></a>
 </p>
