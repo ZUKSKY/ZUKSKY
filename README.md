@@ -1,9 +1,7 @@
-//[![MasterHead](//https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp//)](https://github.com/ZUKSKY)//
-
 
 ### Hi 👋 I'm Zukhrian Shafarazaq
 Web & Mobile App Developer, but i also like playing games and digital art poster design👺<br>
-<img align="right"  width="250" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">(https://github.com/ZUKSKY)
+<img align="right"  width="300" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">(https://github.com/ZUKSKY)
 
 - 🍖 eat(); 
 
@@ -14,7 +12,6 @@ Web & Mobile App Developer, but i also like playing games and digital art poster
 - 🎮 gaming(); 
 
 - 🖼️ Interested On UI/UX Design
-
 
 
 <h3 align="left">Languages and Tools:</h3>
