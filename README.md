@@ -1,7 +1,18 @@
 <h1 align="center">Hi ✌️, I'm Zukhrian Shafarazaq</h1>
 <h3 align="center">Web & Mobile App Developer, but i also like playing games and digital art poster design👺.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuksky&label=Stalker%20views&color=059fff&style=flat" alt="zuksky" /> </p>
+
+- 🍖 eat(); 
+
+- 💻 code(); 
+
+- 🛌 sleep(); 
+
+- 🎮 gaming(); 
+
+- 🖼️ Interested On UI/UX Design
 
 - 📫 How to reach me **zukskyy@gmail.com**
 
