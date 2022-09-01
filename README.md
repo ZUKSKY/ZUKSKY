@@ -1,8 +1,10 @@
 
 ### Hi 👋 I'm Zukhrian Shafarazaq
 Web & Mobile App Developer, but i also like playing games and digital art poster design👺<br>
-<img align="right"  width="300" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">(https://github.com/ZUKSKY)
-
+<img align="right"  width="300" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
+<p align="right"> 
+(https://github.com/ZUKSKY)
+</p>
 - 🍖 eat(); 
 
 - 🛌 sleep(); 
