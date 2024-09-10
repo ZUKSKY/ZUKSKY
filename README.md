@@ -1,7 +1,7 @@
 <img align="right" alt="(https://github.com/ZUKSKY)"  width="300" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
 
 ### Hi 👋 I'm Zukhrian Shafarazaq
-Hi, I'm Zukrian Shafarazaq, Creative web developer, i'm based in Indonesia. I am a Front-end Web development, UI/UX Design, Mobile Augmented Reality Development and IT support.<br>
+I'm a Creative developer, based in Indonesia. Interest in the field of IT in Front-end Web development, UI/UX Design, Mobile Augmented Reality Development and IT support.<br>
 
 
 
