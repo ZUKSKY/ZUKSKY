@@ -1,17 +1,8 @@
 <img align="right" alt="(https://github.com/ZUKSKY)"  width="300" src="https://i.giphy.com/media/9HDFk2Twz2OXf7hnOG/giphy.webp">
 
 ### Hi 👋 I'm Zukhrian Shafarazaq
-I'm Web & Mobile App Developer, but i also like playing games everytime and make digital art poster design👺<br>
+Hi, I'm Zukrian Shafarazaq, Creative web developer, i'm based in Indonesia. I am a Front-end Web development, UI/UX Design, Mobile Augmented Reality Development and IT support.<br>
 
-- 🍖 eat(); 
-
-- 🛌 sleep(); 
-
-- 💻 code(); 
-
-- 🎮 gaming(); 
-
-- 🖼️ Interested On UI/UX Design
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,7 +34,7 @@ Framework :
 Sofweare & Tools :
 &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a>&nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <br></br>
 Game Engine: 
@@ -57,7 +48,6 @@ Other :
 
 ### Reach Me On 📫
 - Email : **zukskyy@gmail.com**
-- Discord : <a href="https://discord.gg/aNb6MmBSwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aNb6MmBSwU" height="30" width="40" /></a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuksky&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="zuksky" /></p>
