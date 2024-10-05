@@ -19,7 +19,6 @@ Hi I'm Zukhrian Shafarazaq, Creative developer based in Indonesia. I am passiona
   <a href="https://www.zuksky.site/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-059fff?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  <p>
 </div>
 <hr/>
 <div align="left">
