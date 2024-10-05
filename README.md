@@ -1,7 +1,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=zuksky&label=Stalker%20views&color=059fff&style=flat" alt="zuksky" /> </p>
 
-<h1 align="left">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+Apa+Kabar!;+Bonjour!;+Konichiwa!;+Annyeong!;+Ciao!;+Ni+hao!;+Sawadikap!;+Privet!;+Guten+Tag!;+Habari!;+Henlo!;+Hallo!" />
 </h1>
 
