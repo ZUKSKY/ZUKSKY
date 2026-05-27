@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=059FFF&center=true&vCenter=true&width=520&lines=zukskyx;Creative+Developer;Web+Developer+%7C+UI%2FUX+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=059FFF&lines=Hello!;Apa+Kabar!;Hola!;Bonjour!;Konnichiwa!;Annyeong!;Ciao!;Ni+hao!;Sawadikap!;Privet!;Guten+Tag!;Habari!;Henlo!;Hallo!" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="left">
 
-Hi I'm Zukhrian Shafarazaq, Creative developer based in Indonesia. I am passionate about creating captivating, innovative, and interactive websites. I have a keen interest in software engineering as a web developer and UI/UX design. Feel free to reach out to me via my socials listed above. Looking forward to connecting with you!
+Hi I'm ZUKSKY, Creative developer based in Indonesia. I am passionate about creating captivating, innovative, and interactive websites. I have a keen interest in software engineering as a web developer and UI/UX design. Feel free to reach out to me via my socials listed above. Looking forward to connecting with you! 🖤
 
 </div>
 
@@ -37,8 +37,6 @@ Hi I'm Zukhrian Shafarazaq, Creative developer based in Indonesia. I am passiona
   </a>
 </p>
 
-<br />
-
 ## Contribution Graph
 
 <div align="center">
@@ -46,8 +44,6 @@ Hi I'm Zukhrian Shafarazaq, Creative developer based in Indonesia. I am passiona
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zuksky&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&radius=16" alt="Contribution Graph" />
 
 </div>
-
-<br />
 
 ## AI Usages
 
